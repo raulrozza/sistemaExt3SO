@@ -1,0 +1,4 @@
+*.bin
+*.o
+*.code-workspace
+/.vscode
